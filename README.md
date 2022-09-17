@@ -1,4 +1,3 @@
-# My test project (Tatsiana)
+# My test project [2022.09.17] (Tatsiana)
 
-2022.09.17 (new)
 
